@@ -29,7 +29,7 @@ Let us try and encode our data using a convolutional encorder and maxpooling in 
 
 [click here](https://github.com/abhijitramesh/Auto-Encoders/blob/master/Convolutional_Autoencoder_Exercise.ipynb)
 
-## Denoicing Encoder
+## Denoising Encoder
 Since we see that convolutional encorders kind of removes the noise in the image we can actully modify its purpose to do the same, training the model with a noisy image and then using it to predict the image without the noise.
 
 [click here](https://github.com/abhijitramesh/Auto-Encoders/blob/master/Denoising_Autoencoder.ipynb)
